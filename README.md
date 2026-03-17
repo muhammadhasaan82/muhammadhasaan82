@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Engineer;LLM+Systems+Developer;Agentic+AI+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;LLM+Systems+Developer;Agentic+AI+Builder"/>
 </p>
 
 
