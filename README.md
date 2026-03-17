@@ -184,3 +184,20 @@ C --> D[LLM]
 D --> E[Response]
 E --> F[Evaluation Layer]
 F --> G[Scores: Accuracy / Relevance / Faithfulness]
+
+---
+
+---
+
+# ⚙️ Development Methodology
+
+- Agile + Scrum based development  
+- Iterative model improvement cycles  
+- Rapid prototyping for LLM systems  
+- Experiment-driven development (prompt + model tuning)  
+- Continuous evaluation & benchmarking  
+
+**Workflow:**
+- Sprint-based feature delivery  
+- Daily iteration on prompts / pipelines  
+- Evaluation → Feedback → Optimization loop  
