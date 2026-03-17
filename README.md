@@ -183,13 +183,12 @@ B --> C[Documents]
 C --> D[LLM]
 D --> E[Response]
 E --> F[Evaluation Layer]
-F --> G[Scores: Accuracy / Relevance / Faithfulness]
+F --> G[Scores: Accuracy / Relevance]
+
 
 ---
 
----
-
-# ⚙️ Development Methodology
+### ⚙️ Development Methodology
 
 - Agile + Scrum based development  
 - Iterative model improvement cycles  
@@ -201,3 +200,9 @@ F --> G[Scores: Accuracy / Relevance / Faithfulness]
 - Sprint-based feature delivery  
 - Daily iteration on prompts / pipelines  
 - Evaluation → Feedback → Optimization loop  
+
+**Tools & Practices:**
+- Git-based version control  
+- Experiment tracking (manual / structured logging)  
+- Modular pipeline design  
+- API-first architecture  
