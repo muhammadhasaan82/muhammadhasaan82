@@ -113,14 +113,17 @@ Also working with:
 
 # 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 
 Primary ecosystem:
 
 - Python
+- TypeScript
+- Rust
 - AI frameworks
 - Data science libraries
-
 
 ---
 
