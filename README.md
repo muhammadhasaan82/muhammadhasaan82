@@ -1,150 +1,186 @@
+<!-- 🔷 AI Banner -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;LLM+Systems+Developer;Agentic+AI+Builder"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Hasaan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-
-<h1 align="center">Hi 👋, I'm Muhammad Hasaan</h1>
-<h3 align="center">🚀 AI • ML • Data Scientist</h3>
+<!-- 🔷 Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;LLM+Systems+Developer;Agentic+AI+Builder"/>
+</p>
 
 ---
 
-## 🧠 About Me
+<h1 align="center">Hi 👋, I'm Muhammad Hasaan</h1>
+<h3 align="center">🚀 AI • ML • Data Scientist | LLM Systems & Agentic AI</h3>
 
-- 🤖 AI / ML Engineer focused on **LLM systems and agent architectures**
-- 🧩 Building **RAG, Agentic RAG, and Conversational AI systems**
-- 🎙️ Developing **Voice AI Agents and Real-time AI applications**
-- ⚙️ Interested in **scalable AI infrastructure and production ML**
-- 🚀 Working with **modern LLM frameworks and vector databases**
+---
+
+# 🧠 About Me
+
+- 🤖 Building **LLM-powered systems, RAG pipelines, and AI agents**
+- 🧩 Specialized in **Agentic RAG + multi-agent orchestration**
+- 🎙️ Developing **real-time Voice AI systems**
+- ⚙️ Focused on **production-grade AI infrastructure**
+- 🚀 Working across **LLM frameworks, embeddings, and vector databases**
 
 ---
 
 # 🚀 AI / LLM Frameworks
 
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-orange?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B42BC?style=for-the-badge)
 
 ---
 
 # 🧠 LLM Systems
 
-- Retrieval Augmented Generation (RAG)
-- Agentic RAG
-- Context Augmented Generation (CAG)
-- Fine-Tuning LLMs
-- Prompt Engineering
-- Tool Calling Agents
-- Multi-Agent Systems
-- Agent Based Modelling
+- Retrieval-Augmented Generation (RAG)  
+- Agentic RAG  
+- Context-Augmented Generation (CAG)  
+- Fine-Tuning LLMs  
+- Prompt Engineering  
+- Tool Calling Agents  
+- Multi-Agent Systems  
+- Agent-Based Modelling  
 
 ---
 
-# 🗂 Vector Databases
+# 🗂 Vector Infrastructure
 
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
-![InMemory](https://img.shields.io/badge/InMemory-green?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/Chroma-8A2BE2?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge)
 
 ---
 
-# 🔎 Embedding Models
+# 🔎 Embeddings & Models
 
-- sentence-transformers
-- GTE Embeddings
-- Gemini Embeddings
-- BAAI Embeddings
+- sentence-transformers  
+- GTE  
+- Gemini Embeddings  
+- BAAI (BGE Models)  
 
 ---
 
 # 🧠 Machine Learning & Deep Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-darkred?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
-Areas:
-
-- NLP
-- Generative AI
-- Deep Learning
-- Model Fine-tuning
-- AI Agents
+**Domains:**
+- NLP  
+- Generative AI  
+- Deep Learning  
+- Fine-tuning  
+- AI Agents  
 
 ---
 
 # 🎙️ Voice AI Systems
 
-- Speech-to-Text (STT)
-- Text-to-Speech (TTS)
-- Real-time Voice Agents
-- Conversational AI
+- Speech-to-Text (STT)  
+- Text-to-Speech (TTS)  
+- Real-time Voice Agents  
+- Conversational AI  
 
-Technologies:
-
-- LiveKit
-- Realtime APIs
-- Streaming AI pipelines
+**Stack:**
+- LiveKit  
+- Realtime APIs  
+- Streaming pipelines  
 
 ---
 
 # 🗄 Data & Infrastructure
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-Also working with:
-
-- Vector Storage Systems
-- AI Backend APIs
-- Realtime AI Systems
-- Scalable AI pipelines
+- Vector storage systems  
+- AI backend APIs  
+- Real-time pipelines  
+- Scalable AI infrastructure  
 
 ---
 
 # ☁️ AI Platforms
 
-- Google ADK
-- Gemini Models
-- OpenAI APIs
+- Google ADK  
+- Gemini  
+- OpenAI APIs  
 
 ---
 
 # 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-
-Primary ecosystem:
-
-- Python
-- TypeScript
-- Rust
-- AI frameworks
-- Data science libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 
 ---
 
-## 💻 IDEs
-VS Code • Jupyter Notebook
+# 🧪 LLM Projects Showcase
+
+### 🔹 AI Property Booking Concierge
+- Agentic RAG-based system for hotel booking  
+- Multi-step reasoning with tool calling  
+- Real-time conversational responses  
+
+### 🔹 Voice AI Assistant
+- Real-time conversational AI agent  
+- STT → LLM → TTS pipeline  
+- Streaming architecture  
+
+### 🔹 Multi-Agent Research System
+- CrewAI + LangGraph orchestration  
+- Autonomous workflows  
+- Tool-integrated agents  
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Model Evaluation & Benchmarking
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhasaan82&show_icons=true&theme=tokyonight)
+### 🧠 Evaluation Areas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhasaan82&layout=compact&theme=tokyonight)
+- LLM Response Quality  
+- Retrieval Accuracy  
+- Latency & Throughput  
+- Hallucination Detection  
+- Context Utilization  
+- Tool Calling Reliability  
 
 ---
 
-# ⚡ Current Focus
+### ⚙️ Evaluation Techniques
 
-Building production-grade:
+- BLEU / ROUGE  
+- Semantic similarity scoring  
+- Human-in-the-loop evaluation  
+- LLM-as-a-judge  
+- A/B testing  
+- Prompt sensitivity analysis  
 
-- Agentic AI systems
-- Voice AI agents
-- Autonomous LLM workflows
-- AI copilots and assistants
+---
+
+### 🤖 Models Worked With
+
+- GPT family (OpenAI APIs)  
+- Gemini models  
+- BAAI (BGE embeddings)  
+- sentence-transformers  
+- LLaMA / Mistral variants  
+
+---
+
+### 📈 RAG Evaluation Pipeline
+
+```mermaid
+graph LR
+A[Query] --> B[Retriever]
+B --> C[Documents]
+C --> D[LLM]
+D --> E[Response]
+E --> F[Evaluation Layer]
+F --> G[Scores: Accuracy / Relevance / Faithfulness]
