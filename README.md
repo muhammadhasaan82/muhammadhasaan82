@@ -183,8 +183,7 @@ B --> C[Documents]
 C --> D[LLM]
 D --> E[Response]
 E --> F[Evaluation Layer]
-F --> G[Scores: Accuracy / Relevance]
-
+F --> G[Scores: Accuracy | Relevance | Faithfulness]
 
 ---
 
