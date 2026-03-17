@@ -1,3 +1,5 @@
+[![Generate Snake](https://github.com/muhammadhasaan82/muhammadhasaan82/actions/workflows/snake.yml/badge.svg?branch=main)](https://github.com/muhammadhasaan82/muhammadhasaan82/actions/workflows/snake.yml)
+
 <!-- 🔷 AI Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Hasaan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
