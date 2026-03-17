@@ -25,6 +25,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadhasaan82/muhammadhasaan82/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+---
+
 # 🚀 AI / LLM Frameworks
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink)
@@ -183,7 +189,7 @@ B --> C[Documents]
 C --> D[LLM]
 D --> E[Response]
 E --> F[Evaluation Layer]
-F --> G[Scores:<br>Accuracy<br>Relevance<br>Faithfulness]
+F --> G[Scores:<br>Accuracy<br>Relevance]
 ```
 
 ---
