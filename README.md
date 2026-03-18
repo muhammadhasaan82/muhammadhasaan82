@@ -89,12 +89,19 @@
 
 # 🎙️ Voice AI Systems
 
+![Whisper](https://img.shields.io/badge/Whisper%20STT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Dia TTS](https://img.shields.io/badge/Dia%20TTS-FF6F00?style=for-the-badge)
+![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white)
+![OpenAI Realtime](https://img.shields.io/badge/OpenAI%20Realtime%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Silero VAD](https://img.shields.io/badge/Silero%20VAD-1E90FF?style=for-the-badge)
+
 - Speech-to-Text (STT)  
 - Text-to-Speech (TTS)  
 - Real-time Voice Agents  
 - Conversational AI  
 
 **Stack:**
+
 - LiveKit  
 - Realtime APIs  
 - Streaming pipelines  
