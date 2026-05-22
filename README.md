@@ -48,6 +48,10 @@
 - Agentic RAG  
 - Context-Augmented Generation (CAG)  
 - Fine-Tuning LLMs  
+- LoRA / QLoRA fine-tuning  
+- PEFT (Parameter-Efficient Fine-Tuning)  
+- RLHF (Reinforcement Learning from Human Feedback)  
+- DPO (Direct Preference Optimization)  
 - Prompt Engineering  
 - Tool Calling Agents  
 - Multi-Agent Systems  
@@ -83,6 +87,10 @@
 - Generative AI  
 - Deep Learning  
 - Fine-tuning  
+- LoRA / QLoRA  
+- PEFT  
+- RLHF  
+- DPO  
 - AI Agents  
 
 ---
