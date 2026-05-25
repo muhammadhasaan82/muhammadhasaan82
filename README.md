@@ -1,4 +1,5 @@
 [![Generate Snake](https://github.com/muhammadhasaan82/muhammadhasaan82/actions/workflows/snake.yml/badge.svg?branch=main)](https://github.com/muhammadhasaan82/muhammadhasaan82/actions/workflows/snake.yml)
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fmuhammadhasaan82&style=flat)](https://rankistan.dev)
 
 <!-- 🔷 AI Banner -->
 <p align="center">
