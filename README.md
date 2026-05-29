@@ -37,11 +37,16 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhasaan82&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Muhammad Hasaan's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadhasaan82&theme=tokyonight" alt="Muhammad Hasaan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhasaan82&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Muhammad Hasaan's Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhasaan82&theme=tokyonight" alt="Most Used Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhasaan82&theme=tokyonight" alt="Most Used Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhasaan82&theme=tokyonight" alt="Muhammad Hasaan's GitHub Profile Summary" />
 </p>
 
 <p align="center">
