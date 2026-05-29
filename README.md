@@ -37,8 +37,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadhasaan82&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Muhammad Hasaan's GitHub Stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhasaan82&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad Hasaan's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhasaan82&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Muhammad Hasaan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhasaan82&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Muhammad Hasaan's Most Used Languages" />
 </p>
 
 <p align="center">
