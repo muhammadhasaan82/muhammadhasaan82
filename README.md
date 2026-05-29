@@ -41,8 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhasaan82&theme=tokyonight" alt="Most Used Languages by Repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhasaan82&theme=tokyonight" alt="Most Used Languages by Commit" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammadhasaan82&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Most Used Languages" />
 </p>
 
 <p align="center">
