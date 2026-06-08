@@ -24,7 +24,7 @@
 - 🧩 Specialized in **Agentic RAG + multi-agent orchestration**
 - 🎙️ Developing **real-time Voice AI systems**
 - ⚙️ Focused on **production-grade AI infrastructure**
-- 🚀 Working across **LLM frameworks, embeddings, and vector databases**
+- 🚀 Working across **LLM frameworks, embeddings, vector databases, memory, caching, and observability**
 
 ---
 
@@ -78,6 +78,8 @@
 - Tool Calling Agents  
 - Multi-Agent Systems  
 - Agent-Based Modelling  
+- Agent memory systems  
+- LLM observability and tracing  
 
 ---
 
@@ -86,6 +88,18 @@
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/Chroma-8A2BE2?style=for-the-badge)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge)
+
+---
+
+# 🧠 Memory, Caching & Observability
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![mem0](https://img.shields.io/badge/mem0-000000?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+
+- Redis for caching, session state, queues, and low-latency data access  
+- mem0 for long-term AI agent memory  
+- Langfuse for LLM tracing, observability, evaluation, and debugging  
 
 ---
 
@@ -146,6 +160,8 @@
 - Vector storage systems  
 - AI backend APIs  
 - Real-time pipelines  
+- Caching and session-state infrastructure  
+- LLM observability and monitoring workflows  
 - Scalable AI infrastructure  
 
 ---
@@ -195,6 +211,7 @@
 - Hallucination Detection  
 - Context Utilization  
 - Tool Calling Reliability  
+- Trace-based debugging  
 
 ---
 
@@ -206,6 +223,7 @@
 - LLM-as-a-judge  
 - A/B testing  
 - Prompt sensitivity analysis  
+- Observability-driven evaluation  
 
 ---
 
