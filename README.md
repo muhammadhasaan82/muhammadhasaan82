@@ -127,7 +127,8 @@
 - PEFT  
 - RLHF  
 - DPO  
-- AI Agents  
+- AI Agents
+- Agent Based Modelling
 
 ---
 
@@ -177,7 +178,6 @@
 # 💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 
 ---
@@ -194,10 +194,10 @@
 - STT → LLM → TTS pipeline  
 - Streaming architecture  
 
-### 🔹 Multi-Agent Research System
-- CrewAI + LangGraph orchestration  
+### 🔹 PDF-Summarizer-Chatbot
+- LangChain orchestration  
 - Autonomous workflows  
-- Tool-integrated agents  
+- PDF Q/A 
 
 ---
 
@@ -223,7 +223,7 @@
 - LLM-as-a-judge  
 - A/B testing  
 - Prompt sensitivity analysis  
-- Observability-driven evaluation  
+- Observability-driven evaluation
 
 ---
 
