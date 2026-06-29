@@ -14,7 +14,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Muhammad Hasaan</h1>
-<h3 align="center">🚀 AI • ML • Data Scientist | LLM Systems & Agentic AI</h3>
+<h3 align="center">🚀 AI • ML • Data Science | LLM Systems & Agentic AI</h3>
 
 ---
 
