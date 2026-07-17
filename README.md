@@ -217,6 +217,7 @@
 
 ### ⚙️ Evaluation Techniques
 
+- Recall@K 
 - BLEU / ROUGE  
 - Semantic similarity scoring  
 - Human-in-the-loop evaluation  
